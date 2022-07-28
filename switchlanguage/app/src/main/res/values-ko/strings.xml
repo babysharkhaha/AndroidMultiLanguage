@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">뮬랭귀지</string>
+    <string name="setting">환경</string>
+    <string name="i_am_test_text">나는 테스트 텍스트입니다</string>
+</resources>
